@@ -1,4 +1,4 @@
-### Timetable Scheduler using Backtracking in Java
+# Timetable Scheduler using Backtracking in Java
 
 ## Objectives
 
