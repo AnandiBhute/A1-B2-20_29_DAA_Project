@@ -1,0 +1,51 @@
+Subject,Teacher,Class,Room
+Math,Mrs. Rao,10A,R101
+Physics,Mrs. Rao,10B,R101
+Chemistry,Ms. Devi,10A,R102
+English,Ms. Devi,10B,R102
+Biology,Mr. Sharma,10C,R103
+Computer,Mr. Sharma,10A,R103
+History,Mr. Verma,10C,R104
+Geography,Mr. Verma,10B,R104
+Hindi,Ms. Meena,10A,R105
+Sanskrit,Ms. Meena,10B,R105
+Arts,Mr. Paul,10C,R106
+Music,Mr. Paul,10A,R106
+Physical Education,Mr. Rana,10B,R107
+Economics,Ms. Roy,10C,R107
+Civics,Ms. Roy,10A,R107
+Environmental Science,Mr. Gupta,10B,R108
+Political Science,Mr. Gupta,10C,R108
+Accountancy,Mr. Khanna,11A,R109
+Business Studies,Mr. Khanna,11B,R109
+Mathematics,Ms. Iyer,11A,R110
+Statistics,Ms. Iyer,11B,R110
+Physics,Mr. Nair,11A,R111
+Chemistry,Mr. Nair,11B,R111
+Biology,Ms. Das,11C,R112
+Computer Science,Ms. Das,11A,R112
+English,Mr. Menon,11B,R113
+Economics,Mr. Menon,11C,R113
+History,Ms. Kaur,11A,R114
+Geography,Ms. Kaur,11B,R114
+Psychology,Ms. Rina,11C,R115
+Sociology,Ms. Rina,11A,R115
+Hindi,Mr. Bhatia,11B,R116
+Sanskrit,Mr. Bhatia,11C,R116
+Fine Arts,Ms. Kapoor,11A,R117
+Music,Ms. Kapoor,11B,R117
+Physical Education,Mr. Tiwari,11C,R118
+Accountancy,Ms. Dutta,12A,R118
+Business Studies,Ms. Dutta,12B,R118
+Mathematics,Mr. Singh,12A,R119
+Statistics,Mr. Singh,12B,R119
+Physics,Ms. Jain,12A,R120
+Chemistry,Ms. Jain,12B,R120
+Biology,Mr. Reddy,12C,R121
+Computer Science,Mr. Reddy,12A,R121
+English,Ms. Sinha,12B,R121
+Economics,Ms. Sinha,12C,R121
+History,Mr. Dasgupta,12A,R122
+Geography,Mr. Dasgupta,12B,R122
+Psychology,Ms. Joshi,12C,R123
+Sociology,Ms. Joshi,12A,R123
